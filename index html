@@ -1,0 +1,25 @@
+<html>
+  <head>
+    <title>Обо мне</title>
+    <link rel="stylesheet" href="style.css"/>
+  </head>
+  <body>
+    <header>
+      <a class="link-header" href="index.html">Главная</a>
+    </header>
+    <main>
+      <h1>Рыжий Лёша</h1>
+      <ul>
+        <li>люблю играть в игры</li>
+        <li>слушаю музыку</li>
+        <li>делаю сайты</li>
+        <li>люблю гулять</li>
+      </ul>
+      <img src="https://sun9-38.userapi.com/impg/fqNgEO8z6LNQM8GY6WOJlUMp4zIAahHwV1ypKw/AMm7lxuTfW4.jpg?size=807x807&quality=96&sign=c3e56a31e3fb81bf3027cc71036ef38d&c_uniq_tag=_0nYAzRRO1oJik-TTpawvvlWtmW5WcEWmhxPjMsIBSc&type=album" width="698px" />
+      <img src="https://avatars.dzeninfra.ru/get-zen_doc/271828/pub_65432a4cd5c3651c4c353a5a_6543ce69ee6d1f1ed9c4a553/scale_1200" height="500px" />
+    </main>
+    <footer>
+      <a class="social" href="https://id.vk.com/account/#/personal"><img src="/uploads/2021/04/Group%201_0_1618254571.png" width="100px" height="100px"/></a>
+    </footer>
+  </body>
+</html>
