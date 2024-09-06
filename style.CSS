@@ -1,0 +1,13 @@
+body {
+    font-family: sans-serif;
+    background-color: rgb(98, 0, 255);
+    color: rgb(255, 255, 255);
+}
+header a {
+    background-color: white;
+    text-decoration: none;
+    color: blueviolet;
+    font-size: 25px;
+    padding: 10px;
+    margin: 50px;
+}
